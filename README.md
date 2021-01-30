@@ -6,7 +6,7 @@
 
 -the frontend components are in myapp folder 
 
--the frontend is running on port 3000 and the backend is running on port 4000
+-the frontend is running on port 3000 and the backend is running on port 4000 
 
 -a sample username and password( momo@lolo.com , 1234567 )
 
