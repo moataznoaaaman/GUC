@@ -1,0 +1,74 @@
+.btn-group button {
+    background-color: #2f3141; /* Green background */
+    border: 1px solid rgb(8, 75, 87); /* Green border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+  }
+  
+  .btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+  }
+  
+  /* Clear floats (clearfix hack) */
+  .btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Add a background color on hover */
+  .btn-group button:hover {
+    background-color: #3e8e41;
+  }
+
+
+
+
+
+
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color:  #4d5172;;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+
+  
+
+  .layoo
+  {
+    height: 1000px;
+    width: 100%;
+    display: flex;
+  }
+
+  .leftThing {
+    width: 25%;
+    background-color: blue;
+  }
+
+  .rest {
+    width: 70%;
+    background-color: rgb(206, 206, 198);
+    position: relative;
+    left: 80px;
+  }
