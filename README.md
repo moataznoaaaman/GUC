@@ -1,4 +1,4 @@
-# githubTest
+# please read me
 
 -this project aims to design a new responsive website for the guc academic members in order for them to do their tasks
 
