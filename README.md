@@ -10,6 +10,6 @@
 
 -a sample username and password( momo@lolo.com , 1234567 )
 
--please note that some parts of the solution is not the graetest but the project was huge and originally was designed for 5 team members but only one (me) was able to work on it due to covid situation and this can be observed in the frontend
+-please note that some parts of the solution is not the graetest but the project was huge and originally was designed for 5 team members but only one (me most of the time) was able to work on it due to covid situation and this can be observed in the frontend
 
 
